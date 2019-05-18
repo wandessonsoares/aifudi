@@ -37,6 +37,6 @@ img{
 }
 
 body{
-    
+    background-image: url("../images/back.png");
     background-color: snow;
 }  
