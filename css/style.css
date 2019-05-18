@@ -3,7 +3,7 @@ img{
     height: 50px;
     width: 100px;
     display: flex;
-    margin-left: 400px;
+    margin-left: 470px;
 }
 
 .ifood{
@@ -33,10 +33,9 @@ img{
 }
 
 .busca{
-    margin-left: 220px;
+    margin-left: 180px;
 }
 
 body{
     background-image: url("../images/back.png");
-    background-color: snow;
 }  
