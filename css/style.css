@@ -11,13 +11,32 @@ img{
 }
 
 .menu{
-    margin-top: 70px;   
+    margin-top: 65px;   
     display: flex;
     padding: 10px;
     margin-left: 200px;
 }
 
+.menu button{
+    margin-left: 50px;
+    margin-top: -8px;
+}
+
+
+.texto{
+    margin-top: 200px;
+    text-align: center;
+}
+
 .content{
     display: flex;
-    padding: 10px;
 }
+
+.busca{
+    margin-left: 220px;
+}
+
+body{
+    
+    background-color: snow;
+}  
